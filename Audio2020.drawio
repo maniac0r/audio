@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T13:12:22.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="3osNl3enHbfKVypX9dnD" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-28T13:12:54.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="CM6WJ6a7g4iyt9mIXGnX" version="13.3.5" type="github">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
     <mxGraphModel dx="1297" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M235wbPJO0eQFkBtWyqc-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;" parent="1" vertex="1">
+          <mxGeometry x="740" y="500" width="150" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="645" y="280" width="105" height="60" as="geometry" />
         </mxCell>
@@ -225,9 +228,6 @@
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-74" value="Supra" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="870" y="720" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="M235wbPJO0eQFkBtWyqc-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;" parent="1" vertex="1">
-          <mxGeometry x="740" y="530" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-80" value="12V" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="755" y="545" width="30" height="30" as="geometry" />
