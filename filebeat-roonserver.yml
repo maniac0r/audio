@@ -1,0 +1,21 @@
+filebeat.inputs:
+- type: log
+  enabled: true
+  paths:
+    - /var/roon/RoonServer/Logs/RoonServer_log.txt
+  exclude_lines: ['zones_seek_changed', 'Debug']
+
+filebeat.config.modules:
+  path: ${path.config}/modules.d/*.yml
+  reload.enabled: false
+output.logstash:
+  hosts: ["localhost:5044"]
+  index: 'filebeat'
+  compression_level: 0
+  ssl.enabled: true
+  ssl.verification_mode: none
+
+processors:
+  - add_host_metadata:
+      when.not.contains.tags: forwarded
+logging.level: warning
