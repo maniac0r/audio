@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T15:45:15.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="PJn83wJoJqP3ZoQJS676" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-21T15:46:00.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="t739lHl_XRAbxTpOIIQ1" version="14.1.1" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
     <mxGraphModel dx="1248" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="53s6JgEZ6me2CBDkBuSd-2" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;Power only&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#A8A8A8;fontSize=10;rotation=-60;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="800.0038089397067" y="495.99789010259053" as="geometry">
+        <mxCell id="53s6JgEZ6me2CBDkBuSd-2" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;Power only&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#A8A8A8;fontSize=10;rotation=-80;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="786.0038089397067" y="482.24789010259053" as="geometry">
             <mxPoint x="-20" y="-34" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -605,7 +605,8 @@
             <mxPoint x="677" y="432.5" as="sourcePoint" />
             <mxPoint x="860" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="480" />
+              <mxPoint x="760" y="480" />
+              <mxPoint x="770" y="457" />
             </Array>
           </mxGeometry>
         </mxCell>
