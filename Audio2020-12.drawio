@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T14:22:39.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="D1-XVF2PnysVALPw0ExI" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-21T14:22:57.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="S4rK1kKhI4e-zLnfjmZ1" version="14.1.1" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
     <mxGraphModel dx="1294" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -791,12 +791,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="187.5625" as="sourcePoint" />
             <mxPoint x="867" y="135" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OBH05SYVjdOEQUbnL4dN-26" value="" style="endArrow=none;html=1;dashed=1;dashPattern=1 1;strokeColor=#FF9999;strokeWidth=4;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="390" as="sourcePoint" />
-            <mxPoint x="650" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OBH05SYVjdOEQUbnL4dN-27" value="Wall?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF66;dashed=1;opacity=25;textOpacity=25;" vertex="1" parent="1">
