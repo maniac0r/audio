@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T14:22:57.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="S4rK1kKhI4e-zLnfjmZ1" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-21T14:24:59.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="5MaED6ZaQnUFNmQzGiwv" version="14.1.1" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
-    <mxGraphModel dx="1294" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,7 +260,7 @@
         <mxCell id="M235wbPJO0eQFkBtWyqc-99" value="9V" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fillOpacity=50;strokeColor=#A8A8A8;fontColor=#A8A8A8;" parent="1" vertex="1">
           <mxGeometry x="1352" y="549" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="M235wbPJO0eQFkBtWyqc-100" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="M235wbPJO0eQFkBtWyqc-100" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeColor=#FF00FF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="890" y="412" width="52" height="14" as="geometry" />
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-101" value="I2S" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -269,7 +269,7 @@
         <mxCell id="M235wbPJO0eQFkBtWyqc-66" value="Matrix" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="884.5" y="424" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M235wbPJO0eQFkBtWyqc-78" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="M235wbPJO0eQFkBtWyqc-78" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;strokeColor=#B85450;" parent="1" vertex="1">
           <mxGeometry x="924.5" y="413" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-105" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#B85450;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="M235wbPJO0eQFkBtWyqc-78" edge="1">
