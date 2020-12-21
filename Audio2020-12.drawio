@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T14:07:27.710Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="Cy6XaigTl06sleoi3JVZ" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-21T14:12:37.238Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="UCr57Bc9lOD8W-35IBfw" version="14.1.1" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
     <mxGraphModel dx="1294" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -771,6 +771,21 @@
             <mxPoint x="377" y="320" as="sourcePoint" />
             <mxPoint x="377" y="372.25" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OBH05SYVjdOEQUbnL4dN-19" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;DIGITAL&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;size=19;position=0.48;base=10;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="243" y="412" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OBH05SYVjdOEQUbnL4dN-20" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;b&gt;CRITICAL LISTENING&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;size=19;position=0.48;base=10;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="137" y="461" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OBH05SYVjdOEQUbnL4dN-21" value="&lt;font color=&quot;#ff9999&quot;&gt;&lt;b&gt;ANALOG&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;size=19;position=0.48;base=10;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="610" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OBH05SYVjdOEQUbnL4dN-22" value="&lt;font color=&quot;#97d077&quot;&gt;&lt;b&gt;ANALOG&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;size=19;position=0.48;base=10;strokeColor=#d6b656;position2=0.15;" vertex="1" parent="1">
+          <mxGeometry x="878.5" y="110.75" width="74.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OBH05SYVjdOEQUbnL4dN-23" value="&lt;font color=&quot;#ff9999&quot;&gt;&lt;b&gt;ANALOG&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;size=19;position=0.48;base=10;strokeColor=#d6b656;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="625" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e_pCMJFblcvT9HseUp_T-1" value="Untitled Layer" parent="0" />
       </root>
