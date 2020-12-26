@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-26T18:28:29.801Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="bM-TIRWbE32qc834lnDH" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-26T18:31:34.089Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="8a--hbb-OB448f6ydab2" version="14.1.1" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
-    <mxGraphModel dx="1100" dy="1475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="306" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1011,7 +1011,7 @@
         <mxCell id="iOKNTZCO_xFBOmE4Wzjg-62" value="LPS1.2 SuperCap" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1282" y="947" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="iOKNTZCO_xFBOmE4Wzjg-63" value="Fuses to upgrade:&lt;br&gt;1. Farad3 -&amp;gt; ?A &amp;nbsp;T/F?&lt;br&gt;2. Mackenzie -&amp;gt; ?A T/F?&lt;br&gt;3. ECP1 -&amp;gt; ?A / T/F?" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;fillColor=#FFE599;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="iOKNTZCO_xFBOmE4Wzjg-63" value="Fuses to upgrade:&lt;br&gt;1. Farad3 -&amp;gt; ?A &amp;nbsp;T/F?&lt;br&gt;2. Mackenzie -&amp;gt; ?A T/F?&lt;br&gt;3. ECP1 -&amp;gt; 0,5A / T" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;fillColor=#FFE599;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="860.5" y="1195" width="289.5" height="125" as="geometry" />
         </mxCell>
         <mxCell id="iOKNTZCO_xFBOmE4Wzjg-64" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
