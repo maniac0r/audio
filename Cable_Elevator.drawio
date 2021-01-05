@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T17:24:32.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="5IHC393rVfa7O8hXzSt4" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T17:26:54.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="NAn1I_yLJI2klDSP2q1W" version="14.1.2" type="github">
   <diagram id="Su2CQx85-kqoJEw9ctgg" name="Page-1">
     <mxGraphModel dx="256" dy="145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="690" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xc_Bv3yDCUbN4pcUxeXH-10" value="&lt;font style=&quot;font-size: 5px&quot;&gt;B: 3 - 4cm&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Xc_Bv3yDCUbN4pcUxeXH-9">
+        <mxCell id="Xc_Bv3yDCUbN4pcUxeXH-10" value="&lt;font style=&quot;font-size: 5px&quot;&gt;B: 3 - 4 cm&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Xc_Bv3yDCUbN4pcUxeXH-9">
           <mxGeometry x="0.1436" relative="1" as="geometry">
             <mxPoint x="-6" y="3" as="offset" />
           </mxGeometry>
@@ -42,7 +42,7 @@
             <mxPoint x="610" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xc_Bv3yDCUbN4pcUxeXH-13" value="&lt;font style=&quot;font-size: 5px&quot;&gt;A: 5 - 6cm&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Xc_Bv3yDCUbN4pcUxeXH-12">
+        <mxCell id="Xc_Bv3yDCUbN4pcUxeXH-13" value="&lt;font style=&quot;font-size: 5px&quot;&gt;A: 5 - 6 cm&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Xc_Bv3yDCUbN4pcUxeXH-12">
           <mxGeometry x="0.1436" relative="1" as="geometry">
             <mxPoint x="-6" y="3" as="offset" />
           </mxGeometry>
@@ -65,7 +65,21 @@
             <mxPoint x="630" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xc_Bv3yDCUbN4pcUxeXH-18" value="&lt;font style=&quot;font-size: 5px&quot;&gt;C: 2 - 3cm&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Xc_Bv3yDCUbN4pcUxeXH-17">
+        <mxCell id="Xc_Bv3yDCUbN4pcUxeXH-18" value="&lt;font style=&quot;font-size: 5px&quot;&gt;C: 2 - 3 cm&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Xc_Bv3yDCUbN4pcUxeXH-17">
+          <mxGeometry x="0.1436" relative="1" as="geometry">
+            <mxPoint x="2.460000000000001" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xc_Bv3yDCUbN4pcUxeXH-19" value="Stojan pod kabel: &quot;Rolka&quot;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="230" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xc_Bv3yDCUbN4pcUxeXH-20" value="" style="endArrow=classic;startArrow=classic;html=1;endSize=3;startSize=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xc_Bv3yDCUbN4pcUxeXH-1" target="Xc_Bv3yDCUbN4pcUxeXH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570.5" y="319.88" as="sourcePoint" />
+            <mxPoint x="529.5" y="319.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xc_Bv3yDCUbN4pcUxeXH-21" value="&lt;font style=&quot;font-size: 5px&quot;&gt;D: 5 - 6 cm&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Xc_Bv3yDCUbN4pcUxeXH-20">
           <mxGeometry x="0.1436" relative="1" as="geometry">
             <mxPoint x="2.460000000000001" y="-10" as="offset" />
           </mxGeometry>
