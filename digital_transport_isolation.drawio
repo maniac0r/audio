@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T23:02:49.232Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="K717LM9MXfLpjsQD5elq" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T23:03:37.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="4FsLtu6RJqg1a9jmQbvQ" version="14.1.9" type="github">
   <diagram id="Y7vgxa4DhB0pr9qEd363" name="Page-1">
     <mxGraphModel dx="860" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="BiXXx1ukzyLKqdQWHbCL-6" value="LAN Switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="340" width="72" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BiXXx1ukzyLKqdQWHbCL-7" value="ETH" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BiXXx1ukzyLKqdQWHbCL-6" target="BiXXx1ukzyLKqdQWHbCL-5">
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-7" value="&lt;font color=&quot;#ff0000&quot;&gt;ETH&lt;/font&gt;" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BiXXx1ukzyLKqdQWHbCL-6" target="BiXXx1ukzyLKqdQWHbCL-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="400" as="sourcePoint" />
             <mxPoint x="490" y="350" as="targetPoint" />
@@ -40,7 +40,7 @@
             <mxPoint x="250" y="369.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiXXx1ukzyLKqdQWHbCL-13" value="USB" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BiXXx1ukzyLKqdQWHbCL-2">
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-13" value="&lt;font color=&quot;#ff0000&quot;&gt;USB&lt;/font&gt;" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BiXXx1ukzyLKqdQWHbCL-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="471" y="369.58" as="sourcePoint" />
             <mxPoint x="514" y="369.58" as="targetPoint" />
