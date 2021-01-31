@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T23:44:11.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="vdVkG19Gj-k0Mw_tViCw" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T23:44:42.233Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="VbBFoJ0kWfiUaJCy9dfa" version="14.1.9" type="github">
   <diagram id="Y7vgxa4DhB0pr9qEd363" name="Page-1">
     <mxGraphModel dx="860" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
             <mxPoint x="580" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiXXx1ukzyLKqdQWHbCL-24" value="RPI USB bus noise" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BiXXx1ukzyLKqdQWHbCL-23">
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-24" value="RPI USB bus&amp;amp;gnd noise" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BiXXx1ukzyLKqdQWHbCL-23">
           <mxGeometry x="-0.4048" relative="1" as="geometry">
             <mxPoint x="1.17" y="-10" as="offset" />
           </mxGeometry>
