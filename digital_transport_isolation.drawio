@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T22:54:07.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" version="14.1.9" etag="mGzoralfKGeQQcK--X3D" type="github"><diagram id="Y7vgxa4DhB0pr9qEd363">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-31T23:02:49.232Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="K717LM9MXfLpjsQD5elq" version="14.1.9" type="github">
+  <diagram id="Y7vgxa4DhB0pr9qEd363" name="Page-1">
+    <mxGraphModel dx="860" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-1" value="RPi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="340" width="76" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-2" value="USB isorator &amp;amp; reclocker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532" y="340" width="99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-3" value="DAC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="692" y="340" width="69" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-4" value="Optical&lt;br&gt;-&amp;gt;&lt;br&gt;Ethernet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262" y="340" width="69" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-5" value="Ethernet&lt;br&gt;-&amp;gt;&lt;br&gt;Optical" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="340" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-6" value="LAN Switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="72" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-7" value="ETH" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BiXXx1ukzyLKqdQWHbCL-6" target="BiXXx1ukzyLKqdQWHbCL-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="sourcePoint" />
+            <mxPoint x="490" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-10" value="ETH" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BiXXx1ukzyLKqdQWHbCL-4" target="BiXXx1ukzyLKqdQWHbCL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="371" as="sourcePoint" />
+            <mxPoint x="423" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-11" value="&lt;font color=&quot;#67ab9f&quot;&gt;Optical&lt;/font&gt;" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" target="BiXXx1ukzyLKqdQWHbCL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="207" y="369.83" as="sourcePoint" />
+            <mxPoint x="250" y="369.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-13" value="USB" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BiXXx1ukzyLKqdQWHbCL-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="471" y="369.58" as="sourcePoint" />
+            <mxPoint x="514" y="369.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiXXx1ukzyLKqdQWHbCL-14" value="&lt;font color=&quot;#67ab9f&quot;&gt;USB&lt;/font&gt;" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="631" y="369.7899999999999" as="sourcePoint" />
+            <mxPoint x="692" y="370.21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
