@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T18:28:41.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="VY4JSKN2VLJxIo-tEDCT" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T18:31:21.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="FNQQw1JGAreLBdiLJ39B" version="14.8.5" type="github">
   <diagram id="hEOPRyQ-eAC0z9hbc_f6" name="Page-1">
     <mxGraphModel dx="1136" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SXLtPEiqwLkHwdA_sOVr-15" value="&lt;b&gt;WEB&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="SXLtPEiqwLkHwdA_sOVr-1" value="&lt;b&gt;topaz VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;apache24&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;ftp trencin&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;8GB ;16+120GB&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -59,9 +62,6 @@
             <mxPoint x="557.5" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXLtPEiqwLkHwdA_sOVr-15" value="&lt;b&gt;WEB&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="520" y="80" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="SXLtPEiqwLkHwdA_sOVr-16" value="&lt;b&gt;SSH&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="260" y="80" width="120" height="100" as="geometry" />
         </mxCell>
@@ -86,12 +86,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXLtPEiqwLkHwdA_sOVr-28" value="" style="endArrow=block;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="SXLtPEiqwLkHwdA_sOVr-19" target="SXLtPEiqwLkHwdA_sOVr-2">
+        <mxCell id="SXLtPEiqwLkHwdA_sOVr-28" value="" style="endArrow=block;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.058;entryY=-0.033;entryDx=0;entryDy=0;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;entryPerimeter=0;" edge="1" parent="1" source="SXLtPEiqwLkHwdA_sOVr-21" target="SXLtPEiqwLkHwdA_sOVr-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="117.5" as="sourcePoint" />
             <mxPoint x="220" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="180" />
+              <mxPoint x="230" y="160" />
+              <mxPoint x="230" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -158,6 +159,16 @@
         </mxCell>
         <mxCell id="SXLtPEiqwLkHwdA_sOVr-10" value="Virtualhosts &amp;nbsp;routing" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SXLtPEiqwLkHwdA_sOVr-41" value="" style="endArrow=block;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="SXLtPEiqwLkHwdA_sOVr-19" target="SXLtPEiqwLkHwdA_sOVr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="162.5" as="sourcePoint" />
+            <mxPoint x="476.96000000000004" y="278.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="150" />
+              <mxPoint x="220" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
