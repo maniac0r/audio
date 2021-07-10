@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T12:49:30.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="csQmT0Z5boOJbDC8nr9Q" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T12:49:49.416Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="C1l0Bfj4fdmkevSzyeEP" version="14.8.5" type="github">
   <diagram id="hEOPRyQ-eAC0z9hbc_f6" name="Page-1">
     <mxGraphModel dx="1136" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,8 +101,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXLtPEiqwLkHwdA_sOVr-29" value="TODO:&lt;br&gt;- other public services like ftp/elastic.. ?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="30" y="490" width="290" height="80" as="geometry" />
+        <mxCell id="SXLtPEiqwLkHwdA_sOVr-29" value="TODO:&lt;br&gt;- other public services like ftp/redmine.. ?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="30" y="490" width="360" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
