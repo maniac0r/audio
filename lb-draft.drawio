@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T16:50:15.625Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="4jq6M7jf8Ec7vvJ3KyXo" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T16:51:50.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="013pbXOLgZlbB5WcQB-X" version="14.8.5" type="github">
   <diagram id="hEOPRyQ-eAC0z9hbc_f6" name="Page-1">
     <mxGraphModel dx="1136" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,19 +68,19 @@
         <mxCell id="SXLtPEiqwLkHwdA_sOVr-15" value="&lt;b&gt;WEB&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="470" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SXLtPEiqwLkHwdA_sOVr-16" value="&lt;b&gt;SSH&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="210" y="140" width="120" height="80" as="geometry" />
+        <mxCell id="SXLtPEiqwLkHwdA_sOVr-16" value="&lt;b&gt;SSH&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SXLtPEiqwLkHwdA_sOVr-17" value="2222 - topaz" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="SXLtPEiqwLkHwdA_sOVr-17" value="2222 - topaz" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="110" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="SXLtPEiqwLkHwdA_sOVr-19" value="2223 - nefrit" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="SXLtPEiqwLkHwdA_sOVr-19" value="2223 - nefrit" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="210" y="175" width="110" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="SXLtPEiqwLkHwdA_sOVr-20" value="2224 git" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="SXLtPEiqwLkHwdA_sOVr-20" value="2224 - git" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="210" y="190" width="110" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="SXLtPEiqwLkHwdA_sOVr-21" value="2225 &amp;nbsp;go" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="SXLtPEiqwLkHwdA_sOVr-21" value="2225 - git &amp;nbsp;repo" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="210" y="205" width="110" height="15" as="geometry" />
         </mxCell>
         <mxCell id="SXLtPEiqwLkHwdA_sOVr-23" value="" style="endArrow=block;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="SXLtPEiqwLkHwdA_sOVr-17" target="SXLtPEiqwLkHwdA_sOVr-1">
@@ -155,6 +155,9 @@
             <mxPoint x="410" y="220" as="sourcePoint" />
             <mxPoint x="450" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SXLtPEiqwLkHwdA_sOVr-39" value="2226 - go" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="110" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
