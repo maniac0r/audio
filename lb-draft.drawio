@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T18:31:21.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="FNQQw1JGAreLBdiLJ39B" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T18:32:55.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="EXoR3Vl01xMe4Q-NXOZh" version="14.8.5" type="github">
   <diagram id="hEOPRyQ-eAC0z9hbc_f6" name="Page-1">
     <mxGraphModel dx="1136" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
           <mxGeometry x="80" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SXLtPEiqwLkHwdA_sOVr-31" value="2121 - topaz" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="105" width="110" height="15" as="geometry" />
+          <mxGeometry x="85" y="135" width="110" height="15" as="geometry" />
         </mxCell>
         <mxCell id="SXLtPEiqwLkHwdA_sOVr-32" value="2122 - nefrit" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="120" width="110" height="15" as="geometry" />
@@ -110,8 +110,8 @@
             <mxPoint x="110" y="130" as="sourcePoint" />
             <mxPoint x="60" y="292.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="113" />
-              <mxPoint x="60" y="300" />
+              <mxPoint x="50" y="140" />
+              <mxPoint x="50" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -120,8 +120,9 @@
             <mxPoint x="95" y="122.5" as="sourcePoint" />
             <mxPoint x="190" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="70" y="130" />
-              <mxPoint x="70" y="320" />
+              <mxPoint x="20" y="130" />
+              <mxPoint x="20" y="230" />
+              <mxPoint x="20" y="340" />
               <mxPoint x="85" y="340" />
               <mxPoint x="360" y="340" />
             </Array>
