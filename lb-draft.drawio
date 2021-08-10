@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T10:34:14.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="MnSXvyBBJU14BqFAj-a0" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-10T10:36:00.751Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="ziEFForrkAW2fXK_YZ7a" version="14.9.5" type="github">
   <diagram id="hEOPRyQ-eAC0z9hbc_f6" name="Page-1">
-    <mxGraphModel dx="1186" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,115 +162,115 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-1" value="&lt;b&gt;TRINITY PUBLIC IP.232: 22+443&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="17" y="490" width="810" height="480" as="geometry" />
+          <mxGeometry x="17" y="631" width="810" height="480" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-2" value="&lt;b&gt;WEB&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="527" y="560" width="120" height="100" as="geometry" />
+          <mxGeometry x="527" y="701" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-3" value="&lt;b&gt;amber VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;apache22+24&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;4GB ;16+50+3200GB&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="750" width="127" height="60" as="geometry" />
+          <mxGeometry x="180" y="891" width="127" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-4" value="&lt;b&gt;amber64 VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;apache24+24php7&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div style=&quot;text-align: right&quot;&gt;ftp gs_group&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;8GB ; 16+50+50+500GB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="750" width="140" height="60" as="geometry" />
+          <mxGeometry x="320" y="891" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-7" value="&lt;b&gt;lb2 proxy VM&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="397" y="570" width="120" height="90" as="geometry" />
+          <mxGeometry x="397" y="711" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-8" value="&lt;font style=&quot;font-size: 11px&quot;&gt;LB PUBLIC IP.X:443&lt;br&gt;LB PUBLIC IP.X:80&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="397" y="540" width="120" height="30" as="geometry" />
+          <mxGeometry x="397" y="681" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-9" value="LetsEncrypt" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="207" y="825" width="70" height="50" as="geometry" />
+          <mxGeometry x="207" y="966" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-10" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" edge="1" parent="1" source="yglTp-ed2eau_NAfF2EX-9" target="yglTp-ed2eau_NAfF2EX-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="267" y="845" as="sourcePoint" />
-            <mxPoint x="507" y="750" as="targetPoint" />
+            <mxPoint x="267" y="986" as="sourcePoint" />
+            <mxPoint x="507" y="891" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="807" y="845" />
-              <mxPoint x="807" y="588" />
+              <mxPoint x="807" y="986" />
+              <mxPoint x="807" y="729" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-11" value="" style="endArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" edge="1" parent="1" source="yglTp-ed2eau_NAfF2EX-3" target="yglTp-ed2eau_NAfF2EX-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="457" y="800" as="sourcePoint" />
-            <mxPoint x="507" y="750" as="targetPoint" />
+            <mxPoint x="457" y="941" as="sourcePoint" />
+            <mxPoint x="507" y="891" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-12" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" edge="1" parent="1" source="yglTp-ed2eau_NAfF2EX-4" target="yglTp-ed2eau_NAfF2EX-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="257" y="760" as="sourcePoint" />
-            <mxPoint x="537" y="640" as="targetPoint" />
+            <mxPoint x="257" y="901" as="sourcePoint" />
+            <mxPoint x="537" y="781" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-15" value="&lt;b&gt;SSH&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="267" y="560" width="120" height="100" as="geometry" />
+          <mxGeometry x="267" y="701" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-16" value="2222 - amber" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="267" y="580" width="110" height="15" as="geometry" />
+          <mxGeometry x="267" y="721" width="110" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-17" value="2223 - amber64" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="267" y="595" width="110" height="15" as="geometry" />
+          <mxGeometry x="267" y="736" width="110" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-20" value="" style="endArrow=block;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="yglTp-ed2eau_NAfF2EX-16" target="yglTp-ed2eau_NAfF2EX-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="457" y="800" as="sourcePoint" />
-            <mxPoint x="507" y="750" as="targetPoint" />
+            <mxPoint x="457" y="941" as="sourcePoint" />
+            <mxPoint x="507" y="891" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="217" y="630" />
+              <mxPoint x="217" y="771" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-22" value="&lt;b&gt;FTP&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="87" y="560" width="123" height="100" as="geometry" />
+          <mxGeometry x="87" y="701" width="123" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-24" value="21212 - amber64" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="92" y="600" width="110" height="15" as="geometry" />
+          <mxGeometry x="92" y="741" width="110" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-25" value="" style="endArrow=block;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="yglTp-ed2eau_NAfF2EX-24" target="yglTp-ed2eau_NAfF2EX-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="102" y="602.5" as="sourcePoint" />
-            <mxPoint x="197" y="790" as="targetPoint" />
+            <mxPoint x="102" y="743.5" as="sourcePoint" />
+            <mxPoint x="197" y="931" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="27" y="610" />
-              <mxPoint x="27" y="710" />
-              <mxPoint x="27" y="820" />
-              <mxPoint x="92" y="820" />
-              <mxPoint x="367" y="820" />
+              <mxPoint x="27" y="751" />
+              <mxPoint x="27" y="851" />
+              <mxPoint x="27" y="961" />
+              <mxPoint x="92" y="961" />
+              <mxPoint x="367" y="961" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-26" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="yglTp-ed2eau_NAfF2EX-7" target="yglTp-ed2eau_NAfF2EX-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="497" y="790" as="sourcePoint" />
-            <mxPoint x="547" y="740" as="targetPoint" />
+            <mxPoint x="497" y="931" as="sourcePoint" />
+            <mxPoint x="547" y="881" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-27" value="" style="endArrow=classic;html=1;entryX=0.425;entryY=-0.05;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="yglTp-ed2eau_NAfF2EX-7" target="yglTp-ed2eau_NAfF2EX-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="437" y="640" as="sourcePoint" />
-            <mxPoint x="317" y="760" as="targetPoint" />
+            <mxPoint x="437" y="781" as="sourcePoint" />
+            <mxPoint x="317" y="901" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-31" value="LE+TLS Certificates" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="527" y="580" width="120" height="15" as="geometry" />
+          <mxGeometry x="527" y="721" width="120" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-32" value="&lt;font style=&quot;font-size: 9px&quot;&gt;HAProxy Virtualhosts &amp;nbsp;routing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="527" y="610" width="120" height="20" as="geometry" />
+          <mxGeometry x="527" y="751" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-33" value="" style="endArrow=block;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="yglTp-ed2eau_NAfF2EX-17" target="yglTp-ed2eau_NAfF2EX-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="277" y="642.5" as="sourcePoint" />
-            <mxPoint x="483.96000000000004" y="758.02" as="targetPoint" />
+            <mxPoint x="277" y="783.5" as="sourcePoint" />
+            <mxPoint x="483.96000000000004" y="899.02" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="227" y="630" />
-              <mxPoint x="227" y="690" />
+              <mxPoint x="227" y="771" />
+              <mxPoint x="227" y="831" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-35" value="&lt;b&gt;XOA VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;div style=&quot;text-align: right&quot;&gt;2GB ; 20GB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="750" width="140" height="60" as="geometry" />
+          <mxGeometry x="470" y="891" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-36" value="&lt;b&gt;amber VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;apache22+24&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;4GB ;16+50+3200GB&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="180" y="400" width="127" height="60" as="geometry" />
@@ -282,28 +282,28 @@
           <mxGeometry x="470" y="400" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-39" value="&lt;b&gt;topaz VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;apache24&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;8GB ;16+120GB&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="86" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="86" y="1031" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-40" value="&lt;b&gt;nefrit VM&lt;br&gt;&lt;/b&gt;apache22+24&lt;br&gt;ftp saneca&lt;br&gt;8GB ;18+36+70GB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="226" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="226" y="1031" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-41" value="&lt;b&gt;git VM&lt;br&gt;&lt;/b&gt;docker+nginx&lt;br&gt;ssh git access&amp;nbsp;23232&lt;br&gt;4GB ; 20GB++" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="366" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="366" y="1031" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-42" value="&lt;b&gt;go VM&lt;br&gt;&lt;/b&gt;nginx&lt;br&gt;10GB ; 8+60GB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="506" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="506" y="1031" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;BLOB NFS SR&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;align=right;" vertex="1" parent="1">
           <mxGeometry x="70" y="395" width="680" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;BLOB NFS SR&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;align=right;" vertex="1" parent="1">
-          <mxGeometry x="75" y="885" width="680" height="70" as="geometry" />
+          <mxGeometry x="75" y="1026" width="680" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-45" value="&lt;b&gt;blob VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;NFS&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;640MB ;20GB+1,5TB&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-46" value="&lt;b&gt;blob VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;NFS&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;640MB ;20GB+1,5TB&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="620" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="891" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
