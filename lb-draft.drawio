@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T10:28:43.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="wpdHwO1PkMpvCNUcni95" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-10T10:34:14.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="MnSXvyBBJU14BqFAj-a0" version="14.9.5" type="github">
   <diagram id="hEOPRyQ-eAC0z9hbc_f6" name="Page-1">
     <mxGraphModel dx="1186" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
         <mxCell id="yglTp-ed2eau_NAfF2EX-4" value="&lt;b&gt;amber64 VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;apache24+24php7&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div style=&quot;text-align: right&quot;&gt;ftp gs_group&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;8GB ; 16+50+50+500GB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="750" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yglTp-ed2eau_NAfF2EX-7" value="&lt;b&gt;lb2 proxy VM&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yglTp-ed2eau_NAfF2EX-7" value="&lt;b&gt;lb2 proxy VM&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="397" y="570" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-8" value="&lt;font style=&quot;font-size: 11px&quot;&gt;LB PUBLIC IP.X:443&lt;br&gt;LB PUBLIC IP.X:80&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -282,16 +282,28 @@
           <mxGeometry x="470" y="400" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-39" value="&lt;b&gt;topaz VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;apache24&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;8GB ;16+120GB&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="180" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="86" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-40" value="&lt;b&gt;nefrit VM&lt;br&gt;&lt;/b&gt;apache22+24&lt;br&gt;ftp saneca&lt;br&gt;8GB ;18+36+70GB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="320" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="226" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-41" value="&lt;b&gt;git VM&lt;br&gt;&lt;/b&gt;docker+nginx&lt;br&gt;ssh git access&amp;nbsp;23232&lt;br&gt;4GB ; 20GB++" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="460" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="366" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yglTp-ed2eau_NAfF2EX-42" value="&lt;b&gt;go VM&lt;br&gt;&lt;/b&gt;nginx&lt;br&gt;10GB ; 8+60GB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="600" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="506" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yglTp-ed2eau_NAfF2EX-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;BLOB NFS SR&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;align=right;" vertex="1" parent="1">
+          <mxGeometry x="70" y="395" width="680" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yglTp-ed2eau_NAfF2EX-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;BLOB NFS SR&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;align=right;" vertex="1" parent="1">
+          <mxGeometry x="75" y="885" width="680" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yglTp-ed2eau_NAfF2EX-45" value="&lt;b&gt;blob VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;NFS&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;640MB ;20GB+1,5TB&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yglTp-ed2eau_NAfF2EX-46" value="&lt;b&gt;blob VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;NFS&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;640MB ;20GB+1,5TB&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="620" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
