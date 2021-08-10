@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T10:49:25.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="oSA-r-9A4sTTzTYvwt-7" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-10T10:49:43.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="WTjhYLTbDstLRr9-aykW" version="14.9.5" type="github">
   <diagram id="hEOPRyQ-eAC0z9hbc_f6" name="Page-1">
     <mxGraphModel dx="1694" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -302,7 +302,7 @@
         <mxCell id="yglTp-ed2eau_NAfF2EX-45" value="&lt;b&gt;blob VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;NFS&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;640MB ;20GB+1,5TB&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yglTp-ed2eau_NAfF2EX-46" value="&lt;b&gt;blob VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;NFS&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;640MB ;20GB+1TB&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
+        <mxCell id="yglTp-ed2eau_NAfF2EX-46" value="&lt;b&gt;blob VM&lt;br&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;NFS/iSCSI&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;640MB ;20GB+1TB&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="620" y="891" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
