@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T18:43:01.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="xLYqEa1UK9wJRcPUF8T9" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-28T18:44:11.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="_e808Ob5ohglw4XDqTaQ" version="15.0.3" type="github">
   <diagram id="K5_SCv75RBPvVDGdjebi" name="Page-1">
     <mxGraphModel dx="1230" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wipVx5Agw4MrlNmya5FI-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="wipVx5Agw4MrlNmya5FI-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="480" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wipVx5Agw4MrlNmya5FI-2" value="CS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
@@ -19,7 +19,7 @@
             <mxPoint x="440" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wipVx5Agw4MrlNmya5FI-5" value="SSH tunnel&lt;br&gt;-R 55000:127.0.0.1:22&lt;br&gt;-R 55001:127.0.0.1:5900" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wipVx5Agw4MrlNmya5FI-4">
+        <mxCell id="wipVx5Agw4MrlNmya5FI-5" value="SSH tunnel (automatic)&lt;br&gt;-R 55000:127.0.0.1:22&lt;br&gt;-R 55001:127.0.0.1:5900" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wipVx5Agw4MrlNmya5FI-4">
           <mxGeometry x="0.1463" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -30,12 +30,12 @@
             <mxPoint x="291" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wipVx5Agw4MrlNmya5FI-7" value="SSH tunnel&lt;br&gt;-L 55001:127.0.0.1:55001&lt;br&gt;-L 55000:127.0.0.1:55000" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wipVx5Agw4MrlNmya5FI-6">
+        <mxCell id="wipVx5Agw4MrlNmya5FI-7" value="SSH tunnel from user PC&lt;br&gt;-L 55001:127.0.0.1:55001&lt;br&gt;-L 55000:127.0.0.1:55000" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wipVx5Agw4MrlNmya5FI-6">
           <mxGeometry x="0.1463" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wipVx5Agw4MrlNmya5FI-8" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="wipVx5Agw4MrlNmya5FI-1" target="wipVx5Agw4MrlNmya5FI-3">
+        <mxCell id="wipVx5Agw4MrlNmya5FI-8" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#FF0000;" edge="1" parent="1" source="wipVx5Agw4MrlNmya5FI-1" target="wipVx5Agw4MrlNmya5FI-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="460" as="sourcePoint" />
             <mxPoint x="440" y="410" as="targetPoint" />
@@ -45,7 +45,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wipVx5Agw4MrlNmya5FI-9" value="VNC: localhost:55001&lt;br&gt;SSH: localhost:55000" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wipVx5Agw4MrlNmya5FI-8">
+        <mxCell id="wipVx5Agw4MrlNmya5FI-9" value="&lt;font color=&quot;#ff0000&quot;&gt;VNC: localhost:55001&lt;br&gt;SSH: localhost:55000&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wipVx5Agw4MrlNmya5FI-8">
           <mxGeometry x="-0.2674" y="-2" relative="1" as="geometry">
             <mxPoint x="17" y="44" as="offset" />
           </mxGeometry>
