@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T18:44:32.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="26skCx_7KqlqEhoJpjW5" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-28T18:45:02.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="yczhYUbT2TKaGoR0vIYw" version="15.0.3" type="github">
   <diagram id="K5_SCv75RBPvVDGdjebi" name="Page-1">
     <mxGraphModel dx="885" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="440" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wipVx5Agw4MrlNmya5FI-5" value="SSH tunnel (automatic)&lt;br&gt;-R 55000:127.0.0.1:22&lt;br&gt;-R 55001:127.0.0.1:5900" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wipVx5Agw4MrlNmya5FI-4">
+        <mxCell id="wipVx5Agw4MrlNmya5FI-5" value="SSH tunnel (automatic)&lt;br&gt;-Remote 55000:127.0.0.1:22&lt;br&gt;-Remote 55001:127.0.0.1:5900" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wipVx5Agw4MrlNmya5FI-4">
           <mxGeometry x="0.1463" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -30,7 +30,7 @@
             <mxPoint x="291" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wipVx5Agw4MrlNmya5FI-7" value="SSH tunnel from user PC&lt;br&gt;-L 55001:127.0.0.1:55001&lt;br&gt;-L 55000:127.0.0.1:55000" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wipVx5Agw4MrlNmya5FI-6">
+        <mxCell id="wipVx5Agw4MrlNmya5FI-7" value="SSH tunnel from user PC&lt;br&gt;-Local 55001:127.0.0.1:55001&lt;br&gt;-Local 55000:127.0.0.1:55000" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wipVx5Agw4MrlNmya5FI-6">
           <mxGeometry x="0.1463" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
