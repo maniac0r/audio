@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T09:31:01.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="E6Y-6R1lh9AGjSjWcpc2" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T09:33:49.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="3T1mvHseN4SHFSYiTehw" version="15.8.3" type="github">
   <diagram id="uoa_Wlvd-jYCDKDbF1ka" name="Page-1">
     <mxGraphModel dx="1186" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZFirqbm3daGGPWwAtq2X-1" value="dnsmasq@lo&lt;br&gt;127.0.0.1:53" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="430" width="160" height="50" as="geometry" />
+          <mxGeometry x="230" y="230" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-2" value="ipset vpn" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="425" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZFirqbm3daGGPWwAtq2X-1" target="ZFirqbm3daGGPWwAtq2X-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="470" as="sourcePoint" />
-            <mxPoint x="440" y="420" as="targetPoint" />
+            <mxPoint x="440" y="270" as="sourcePoint" />
+            <mxPoint x="490" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-4" value="add IP&lt;br&gt;from matched&lt;br&gt;DNS query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZFirqbm3daGGPWwAtq2X-3">
@@ -22,30 +22,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-5" value="/etc/resolv.conf&lt;br&gt;127.0.0.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="454.5" as="sourcePoint" />
-            <mxPoint x="180" y="454.5" as="targetPoint" />
+            <mxPoint x="140" y="254.5" as="sourcePoint" />
+            <mxPoint x="230" y="254.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFirqbm3daGGPWwAtq2X-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZFirqbm3daGGPWwAtq2X-9" target="ZFirqbm3daGGPWwAtq2X-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-9" value="/etc/rc.firewall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="190" y="80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-10" value="/etc/dnsmasq/dnsmasq-routing.iptables" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="304" y="280" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZFirqbm3daGGPWwAtq2X-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="294.5" as="sourcePoint" />
-            <mxPoint x="300" y="294.5" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="380" y="80" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZFirqbm3daGGPWwAtq2X-10" target="ZFirqbm3daGGPWwAtq2X-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="474.5" as="sourcePoint" />
-            <mxPoint x="200" y="474.5" as="targetPoint" />
+            <mxPoint x="160" y="274.5" as="sourcePoint" />
+            <mxPoint x="250" y="274.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-13" value="Create vpn ipset on boot" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZFirqbm3daGGPWwAtq2X-12">
@@ -55,8 +52,8 @@
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZFirqbm3daGGPWwAtq2X-10" target="ZFirqbm3daGGPWwAtq2X-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="280" as="sourcePoint" />
-            <mxPoint x="680" y="425" as="targetPoint" />
+            <mxPoint x="640" y="80" as="sourcePoint" />
+            <mxPoint x="730" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-15" value="Mark outgoing traffic&lt;br&gt;matching vpn ipset&lt;br&gt;with FWMARK 0x4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZFirqbm3daGGPWwAtq2X-14">
@@ -65,7 +62,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZFirqbm3daGGPWwAtq2X-16" value="ip route table vpn&lt;br&gt;default gw via vpn" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="425" width="130" height="60" as="geometry" />
+          <mxGeometry x="650" y="225" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFirqbm3daGGPWwAtq2X-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="350" as="sourcePoint" />
+            <mxPoint x="800" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFirqbm3daGGPWwAtq2X-19" value="dns_sniff.sh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFirqbm3daGGPWwAtq2X-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="449.5" as="sourcePoint" />
+            <mxPoint x="440" y="449.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFirqbm3daGGPWwAtq2X-21" value="add IP&lt;br&gt;from matched&lt;br&gt;DNS query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZFirqbm3daGGPWwAtq2X-20">
+          <mxGeometry x="-0.2667" y="1" relative="1" as="geometry">
+            <mxPoint x="7" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFirqbm3daGGPWwAtq2X-22" value="routing table&lt;br&gt;route host via vpn" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="420" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
