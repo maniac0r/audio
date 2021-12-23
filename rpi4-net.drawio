@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T11:37:13.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="FYKi_i7Izjy-kcDDLH4a" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T11:45:35.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="JBlXET0L6KuwI8IsQkbd" version="16.0.3" type="github">
   <diagram id="ZE7LbrojMh1qL8f3X9Ky" name="Page-1">
     <mxGraphModel dx="853" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j7X_b7NmyD12AYypd5A_-1" value="WiFi AP &amp;amp; switch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j7X_b7NmyD12AYypd5A_-1" value="WiFi AP &amp;amp; switch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="519" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j7X_b7NmyD12AYypd5A_-2" value="Upstream switch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j7X_b7NmyD12AYypd5A_-2" value="Upstream switch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="359" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j7X_b7NmyD12AYypd5A_-3" value="Main switch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j7X_b7NmyD12AYypd5A_-3" value="Main switch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="189" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j7X_b7NmyD12AYypd5A_-4" value="hostile rpi4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j7X_b7NmyD12AYypd5A_-4" value="hostile rpi4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="519" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j7X_b7NmyD12AYypd5A_-5" value="Router" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j7X_b7NmyD12AYypd5A_-5" value="Router" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j7X_b7NmyD12AYypd5A_-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j7X_b7NmyD12AYypd5A_-5" target="j7X_b7NmyD12AYypd5A_-3">
@@ -37,19 +37,71 @@
             <mxPoint x="369" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j7X_b7NmyD12AYypd5A_-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="j7X_b7NmyD12AYypd5A_-1" target="j7X_b7NmyD12AYypd5A_-4">
+        <mxCell id="j7X_b7NmyD12AYypd5A_-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="j7X_b7NmyD12AYypd5A_-1" target="j7X_b7NmyD12AYypd5A_-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="380" as="sourcePoint" />
             <mxPoint x="379" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j7X_b7NmyD12AYypd5A_-10" value="Unimportant switch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j7X_b7NmyD12AYypd5A_-10" value="Unimportant switch" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontColor=#4D4D4D;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j7X_b7NmyD12AYypd5A_-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="j7X_b7NmyD12AYypd5A_-3" target="j7X_b7NmyD12AYypd5A_-10">
+        <mxCell id="j7X_b7NmyD12AYypd5A_-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#4D4D4D;fontColor=#4D4D4D;dashed=1;" edge="1" parent="1" source="j7X_b7NmyD12AYypd5A_-3" target="j7X_b7NmyD12AYypd5A_-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="370" as="sourcePoint" />
             <mxPoint x="199" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j7X_b7NmyD12AYypd5A_-13" value="Unimportant WiFi AP &amp;amp; unused switch" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontColor=#4D4D4D;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7X_b7NmyD12AYypd5A_-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#4D4D4D;fontColor=#4D4D4D;dashed=1;" edge="1" parent="1" source="j7X_b7NmyD12AYypd5A_-10" target="j7X_b7NmyD12AYypd5A_-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259.5" y="340" as="sourcePoint" />
+            <mxPoint x="260" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j7X_b7NmyD12AYypd5A_-16" value="random client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7X_b7NmyD12AYypd5A_-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="j7X_b7NmyD12AYypd5A_-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413.5" y="390" as="sourcePoint" />
+            <mxPoint x="213.5" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j7X_b7NmyD12AYypd5A_-18" value="random client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="359" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7X_b7NmyD12AYypd5A_-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="j7X_b7NmyD12AYypd5A_-18" target="j7X_b7NmyD12AYypd5A_-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423.5" y="400" as="sourcePoint" />
+            <mxPoint x="423.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j7X_b7NmyD12AYypd5A_-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#4D4D4D;strokeColor=#4D4D4D;endArrow=none;endFill=0;" edge="1" parent="1" source="j7X_b7NmyD12AYypd5A_-21" target="j7X_b7NmyD12AYypd5A_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7X_b7NmyD12AYypd5A_-21" value="Random wifi client" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="540" y="170" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j7X_b7NmyD12AYypd5A_-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#4D4D4D;strokeColor=#4D4D4D;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.31;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="j7X_b7NmyD12AYypd5A_-25" target="j7X_b7NmyD12AYypd5A_-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705.2" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j7X_b7NmyD12AYypd5A_-25" value="Random wifi client" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="660" y="220" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j7X_b7NmyD12AYypd5A_-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;fontColor=#4D4D4D;strokeColor=#82b366;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fillColor=#d5e8d4;" edge="1" parent="1" source="j7X_b7NmyD12AYypd5A_-25" target="j7X_b7NmyD12AYypd5A_-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="390" as="sourcePoint" />
+            <mxPoint x="460" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="330" />
+              <mxPoint x="640" y="370" />
+              <mxPoint x="550" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
