@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T15:14:51.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="fH1BCAmLaRiaMdnlM-t0" version="16.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-07T19:04:37.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="HjIlHXpYvlz5zC5XXi6T" version="16.1.0" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
-    <mxGraphModel dx="859" dy="1517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="1324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,13 +92,13 @@
         <mxCell id="M235wbPJO0eQFkBtWyqc-19" value="9V" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="1700" y="456" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M235wbPJO0eQFkBtWyqc-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="M235wbPJO0eQFkBtWyqc-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="647" y="545" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-21" value="LPS&lt;br&gt;3,5A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="692" y="560" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M235wbPJO0eQFkBtWyqc-23" value="5V" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="M235wbPJO0eQFkBtWyqc-23" value="5V" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="652" y="560" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-25" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=80;" parent="1" vertex="1">
