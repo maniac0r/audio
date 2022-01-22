@@ -1,18 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2022-01-22T15:30:09.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="jFc92aamLUl7fuqt4mI5" version="16.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-22T16:47:45.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="fJgp5pmZ05XQsCLXH-F3" version="16.4.5" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
-    <mxGraphModel dx="1427" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fontColor=#333333;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="135" y="10" width="300" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="M235wbPJO0eQFkBtWyqc-88" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#B85450;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=1;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-16" target="1uxTvB8G4I0eHR2gSPLV-1" edge="1">
+        <mxCell id="M235wbPJO0eQFkBtWyqc-88" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#B85450;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=1;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-17" target="1uxTvB8G4I0eHR2gSPLV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="849.0749999999998" y="618.4250000000002" as="sourcePoint" />
             <mxPoint x="837" y="515" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="200" />
+              <mxPoint x="317" y="200" />
               <mxPoint x="50" y="200" />
               <mxPoint x="50" y="660" />
               <mxPoint x="857" y="660" />
@@ -34,10 +34,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-112" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="491" y="170" width="400" height="60" as="geometry" />
+          <mxGeometry x="491" y="178" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-92" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeColor=#FF00FF;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="736" y="190" width="50" height="20" as="geometry" />
+          <mxGeometry x="736" y="198" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="789" y="405" width="111" height="85" as="geometry" />
@@ -120,12 +120,12 @@
             <mxPoint x="1560" y="511" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M235wbPJO0eQFkBtWyqc-35" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#B85450;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-17" target="_X-WQwoRXDPAYax9laIT-1" edge="1">
+        <mxCell id="M235wbPJO0eQFkBtWyqc-35" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#B85450;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_X-WQwoRXDPAYax9laIT-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710.4449999999999" y="615" as="sourcePoint" />
+            <mxPoint x="270" y="170" as="sourcePoint" />
             <mxPoint x="712" y="605" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="317" y="220" />
+              <mxPoint x="270" y="220" />
               <mxPoint x="70" y="220" />
               <mxPoint x="70" y="650" />
               <mxPoint x="715" y="650" />
@@ -276,7 +276,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-113" value="DirectStream DAC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="626" y="180" width="100" height="20" as="geometry" />
+          <mxGeometry x="626" y="188" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-114" value="" style="endArrow=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF33FF;strokeWidth=5;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="M235wbPJO0eQFkBtWyqc-100" target="76j5sk3wCB9ZU_lOgHT8-92" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -301,24 +301,14 @@
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="239" y="70" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cdXIdKlyyr9PJ7xX7_ld-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=#FF0000;jumpStyle=arc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-12" target="M235wbPJO0eQFkBtWyqc-25" edge="1">
+        <mxCell id="cdXIdKlyyr9PJ7xX7_ld-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=#FF0000;jumpStyle=arc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-15" target="M235wbPJO0eQFkBtWyqc-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="305" y="60" />
-              <mxPoint x="10" y="60" />
+              <mxPoint x="10" y="150" />
               <mxPoint x="10" y="701" />
             </Array>
             <mxPoint x="210" y="701" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="76j5sk3wCB9ZU_lOgHT8-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="285" y="70" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="76j5sk3wCB9ZU_lOgHT8-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="330" y="70" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="76j5sk3wCB9ZU_lOgHT8-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="375" y="70" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="204" y="130" width="40" height="40" as="geometry" />
@@ -335,10 +325,14 @@
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="385" y="130" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="76j5sk3wCB9ZU_lOgHT8-20" value="" style="endArrow=none;html=1;strokeWidth=2;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="M235wbPJO0eQFkBtWyqc-112" target="76j5sk3wCB9ZU_lOgHT8-19" edge="1">
+        <mxCell id="76j5sk3wCB9ZU_lOgHT8-20" value="" style="endArrow=none;html=1;strokeWidth=2;entryX=0.675;entryY=0.958;entryDx=0;entryDy=0;strokeColor=#FF3333;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="M235wbPJO0eQFkBtWyqc-112" target="76j5sk3wCB9ZU_lOgHT8-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="462" y="200" as="sourcePoint" />
             <mxPoint x="447" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="248" y="209" />
+              <mxPoint x="247" y="119" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-21" value="AW400" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -348,24 +342,37 @@
           <mxGeometry x="711" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-23" value="Ref5SE" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="486" y="80" width="400" height="60" as="geometry" />
+          <mxGeometry x="486" y="89" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-24" value="" style="endArrow=none;html=1;strokeColor=#FF3333;strokeWidth=2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-13" target="76j5sk3wCB9ZU_lOgHT8-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="517" y="400" as="sourcePoint" />
             <mxPoint x="567" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="45" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="76j5sk3wCB9ZU_lOgHT8-25" value="" style="endArrow=none;html=1;strokeColor=#FF3333;strokeWidth=2;exitX=0.75;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-14" edge="1">
+        <mxCell id="76j5sk3wCB9ZU_lOgHT8-25" value="" style="endArrow=none;html=1;strokeColor=#FF3333;strokeWidth=2;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="347" y="100" as="sourcePoint" />
             <mxPoint x="720" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="60" />
+              <mxPoint x="450" y="60" />
+              <mxPoint x="470" y="70" />
+              <mxPoint x="670" y="70" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="76j5sk3wCB9ZU_lOgHT8-26" value="" style="endArrow=none;html=1;strokeColor=#FF3333;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-18" target="76j5sk3wCB9ZU_lOgHT8-23" edge="1">
+        <mxCell id="76j5sk3wCB9ZU_lOgHT8-26" value="" style="endArrow=none;html=1;strokeColor=#FF3333;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-12" target="76j5sk3wCB9ZU_lOgHT8-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="357" y="90" as="sourcePoint" />
             <mxPoint x="752" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="120" />
+              <mxPoint x="380" y="120" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-30" value="" style="endArrow=none;html=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#b0e3e6;strokeColor=#97D077;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-32" target="76j5sk3wCB9ZU_lOgHT8-31" edge="1">
@@ -375,16 +382,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="546" y="100" width="20" height="20" as="geometry" />
+          <mxGeometry x="546" y="109" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="546" y="190" width="20" height="20" as="geometry" />
+          <mxGeometry x="546" y="198" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="811" y="190" width="20" height="20" as="geometry" />
+          <mxGeometry x="811" y="198" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="811" y="100" width="20" height="20" as="geometry" />
+          <mxGeometry x="811" y="109" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-35" value="" style="endArrow=none;html=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#97D077;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-33" target="76j5sk3wCB9ZU_lOgHT8-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -405,10 +412,10 @@
           <mxGeometry x="791" y="30" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="576" y="100" width="20" height="20" as="geometry" />
+          <mxGeometry x="576" y="109" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="776" y="100" width="20" height="20" as="geometry" />
+          <mxGeometry x="776" y="109" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-41" value="" style="endArrow=none;html=1;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#97D077;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="76j5sk3wCB9ZU_lOgHT8-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -464,13 +471,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="591" y="195" width="10" height="10" as="geometry" />
+          <mxGeometry x="591" y="203" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-90" value="I2S" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="736" y="182.5" width="50" height="35" as="geometry" />
+          <mxGeometry x="736" y="190.5" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-93" value="Toslink" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="571" y="170" width="50" height="35" as="geometry" />
+          <mxGeometry x="571" y="178" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="76j5sk3wCB9ZU_lOgHT8-101" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#fad7ac;rounded=1;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9933;" parent="1" source="M235wbPJO0eQFkBtWyqc-36" target="76j5sk3wCB9ZU_lOgHT8-93" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -586,7 +593,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aQYm6t_41G4kme0ODkEK-2" value="LAN" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007FFF;" parent="1" vertex="1">
-          <mxGeometry x="145" y="153" width="33" height="20" as="geometry" />
+          <mxGeometry x="145" y="156" width="33" height="17" as="geometry" />
         </mxCell>
         <mxCell id="ypcxiQf_RE1Gg7YUXVHt-1" value="&lt;p style=&quot;line-height: 100%&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;Coppermine Software details:&lt;br&gt;Linux piCorePlayer 4.14.26-pcpCore_v7 #1 SMP&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;init-+-busybox-httpd&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;|-mpd-+-{decoder}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; |-{io}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; |-{output:alsa}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; `-{player}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;|-start.sh---mono-sgen-+-mono-sgen-+-{Finalizer}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |-3*[{RoonBridgeHelpe}]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |-{SGen worker}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |-{Timer-Scheduler}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; `-2*[{Worker (2)}]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|-mono-sgen-+-{Finalizer}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |-{SGen worker}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |-{Timer-Scheduler}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; `-7*[{mono-sgen}]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|-processreaper&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|-{Finalizer}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|-{SGen worker}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;| &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;`-2*[{Threadpool work}]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;|-udevd---2*[udevd]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;|-udhcpc&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;`-upmpdcli---8*[{upmpdcli}]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;cat /proc/interrupts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;CPU0 &amp;nbsp; &amp;nbsp; &amp;nbsp; CPU1 &amp;nbsp; &amp;nbsp; &amp;nbsp; CPU2 &amp;nbsp; &amp;nbsp; &amp;nbsp; CPU3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;16: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;bcm2836-timer &amp;nbsp; 0 Edge &amp;nbsp; &amp;nbsp; &amp;nbsp;arch_timer&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;&amp;nbsp;17: &amp;nbsp; 25188191 &amp;nbsp; 10966781 &amp;nbsp; 14950586 &amp;nbsp; &amp;nbsp;2698014 &amp;nbsp;bcm2836-timer &amp;nbsp; 1 Edge &amp;nbsp; &amp;nbsp; &amp;nbsp;arch_timer&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;21: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;bcm2836-pmu &amp;nbsp; 9 Edge &amp;nbsp; &amp;nbsp; &amp;nbsp;arm-pmu&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;&amp;nbsp;23: &amp;nbsp; &amp;nbsp; 758928 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;ARMCTRL-level &amp;nbsp; 1 Edge &amp;nbsp; &amp;nbsp; &amp;nbsp;3f00b880.mailbox&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;24: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;ARMCTRL-level &amp;nbsp; 2 Edge &amp;nbsp; &amp;nbsp; &amp;nbsp;VCHIQ doorbell&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;46: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;ARMCTRL-level &amp;nbsp;48 Edge &amp;nbsp; &amp;nbsp; &amp;nbsp;bcm2708_fb dma&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;48: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;ARMCTRL-level &amp;nbsp;50 Edge &amp;nbsp; &amp;nbsp; &amp;nbsp;DMA IRQ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;50: &amp;nbsp; &amp;nbsp; &amp;nbsp; 1762 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;ARMCTRL-level &amp;nbsp;52 Edge &amp;nbsp; &amp;nbsp; &amp;nbsp;DMA IRQ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;59: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;ARMCTRL-level &amp;nbsp;61 Edge &amp;nbsp; &amp;nbsp; &amp;nbsp;bcm2835-auxirq&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;&amp;nbsp;62: 1935384204 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;ARMCTRL-level &amp;nbsp;64 Edge &amp;nbsp; &amp;nbsp; &amp;nbsp;dwc_otg, dwc_otg_pcd, dwc_otg_hcd:usb1&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;86: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 69 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;ARMCTRL-level &amp;nbsp;88 Edge &amp;nbsp; &amp;nbsp; &amp;nbsp;mmc0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;FIQ: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;usb_fiq&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;IPI0: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;CPU wakeup interrupts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;IPI1: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;Timer broadcast interrupts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;IPI2: &amp;nbsp; &amp;nbsp; 909973 &amp;nbsp; 56401701 &amp;nbsp; 15388630 &amp;nbsp; &amp;nbsp;4430473 &amp;nbsp;Rescheduling interrupts&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;IPI3: &amp;nbsp; &amp;nbsp; &amp;nbsp; 3899 &amp;nbsp; &amp;nbsp; &amp;nbsp; 3784 &amp;nbsp; &amp;nbsp; &amp;nbsp; 6043 &amp;nbsp; &amp;nbsp; &amp;nbsp; 3481 &amp;nbsp;Function call interrupts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;IPI4: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;CPU stop interrupts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;IPI5: &amp;nbsp; 16041554 &amp;nbsp; 10058440 &amp;nbsp; &amp;nbsp;9373573 &amp;nbsp; &amp;nbsp;1425426 &amp;nbsp;IRQ work interrupts&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;IPI6: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp;completion interrupts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;Err: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;ifconfig&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;eth0 &amp;nbsp; &amp;nbsp; &amp;nbsp;Link encap:Ethernet &amp;nbsp;HWaddr B8:27:EB:66:5B:27&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; inet addr:192.168.0.155 &amp;nbsp;Bcast:192.168.0.255 &amp;nbsp;Mask:255.255.255.0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; UP BROADCAST RUNNING MULTICAST &amp;nbsp;MTU:1500 &amp;nbsp;Metric:1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;b&gt;RX&lt;/b&gt; packets:105956500 errors:0 &lt;b&gt;dropped:40481 &lt;/b&gt;overruns:0 frame:0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TX packets:70725758 errors:0 dropped:0 overruns:0 carrier:0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; collisions:0 txqueuelen:1000&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RX bytes:126424873146 (117.7 GiB) &amp;nbsp;TX bytes:7533633311 (7.0 GiB)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;cat /proc/softirqs&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; CPU0 &amp;nbsp; &amp;nbsp; &amp;nbsp; CPU1 &amp;nbsp; &amp;nbsp; &amp;nbsp; CPU2 &amp;nbsp; &amp;nbsp; &amp;nbsp; CPU3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;b&gt;HI: 1217978215 &lt;/b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt; &amp;nbsp;TIMER: &amp;nbsp; 22787177 &amp;nbsp; &amp;nbsp;9204790 &amp;nbsp; 11624127 &amp;nbsp; &amp;nbsp;2283256&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; NET_TX: &amp;nbsp; &amp;nbsp; 315320 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt; NET_RX: &amp;nbsp;105456706 &amp;nbsp; &amp;nbsp; &amp;nbsp; 1702 &amp;nbsp; &amp;nbsp;2387536 &amp;nbsp; &amp;nbsp;2417759&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;BLOCK: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; IRQ_POLL: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;TASKLET: &amp;nbsp;178577793 &lt;/b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;4 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;b&gt;&amp;nbsp;SCHED: &amp;nbsp; 22684301 &amp;nbsp; &amp;nbsp;9015072 &amp;nbsp; 10698963 &amp;nbsp; &amp;nbsp;2284439&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;HRTIMER: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;RCU: &amp;nbsp; 11131666 &amp;nbsp; &amp;nbsp;5270931 &amp;nbsp; &amp;nbsp;6173860 &amp;nbsp; &amp;nbsp;1905670&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;div&gt;mount | egrep -v &#39;tcloop&#39;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tmpfs on / type tmpfs (rw,relatime,size=900188k)&lt;/div&gt;&lt;div&gt;&amp;nbsp; proc on /proc type proc (rw,relatime)&lt;/div&gt;&lt;div&gt;&amp;nbsp; sysfs on /sys type sysfs (rw,relatime)&lt;/div&gt;&lt;div&gt;&amp;nbsp; devpts on /dev/pts type devpts (rw,relatime,mode=600,ptmxmode=000)&lt;/div&gt;&lt;div&gt;&amp;nbsp; tmpfs on /dev/shm type tmpfs (rw,relatime)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cat tweaks.sh&lt;/div&gt;&lt;div&gt;&lt;div&gt;echo -n performance &amp;gt; /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor&lt;/div&gt;&lt;div&gt;echo 0 &amp;gt; /proc/sys/vm/swappiness&lt;/div&gt;&lt;div&gt;/usr/local/bin/taskset -c -p 3 $(pidof mpd)&lt;/div&gt;&lt;div&gt;/usr/local/bin/taskset -c -p 2 $(pidof upmpdcli)&lt;/div&gt;&lt;div&gt;/usr/local/bin/taskset -c -p 1 $(pidof RAATServer)&lt;/div&gt;&lt;div&gt;/usr/local/bin/renice -19 -p $(pidof mpd)&lt;/div&gt;&lt;div&gt;/usr/local/bin/renice -19 -p $(pidof RAATServer)&lt;/div&gt;&lt;div&gt;/usr/local/bin/renice -18 -p $(pidof upmpdcli)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;/home/tc/roon-realtime.sh -p 99 -m FIFO -b y -r y&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;echo 1 &amp;gt; /proc/sys/kernel/hung_task_check_count&lt;/div&gt;&lt;div&gt;echo 20 &amp;gt; /proc/sys/vm/stat_interval&lt;/div&gt;&lt;div&gt;echo 3 &amp;gt; /proc/sys/vm/dirty_background_ratio&lt;/div&gt;&lt;div&gt;echo 10 &amp;gt; /proc/sys/vm/dirty_ratio&lt;/div&gt;&lt;div&gt;echo 225000 &amp;gt; /proc/sys/kernel/sched_min_granularity_ns&lt;/div&gt;&lt;div&gt;echo 5000000 &amp;gt; /proc/sys/kernel/sched_migration_cost_ns&lt;/div&gt;&lt;div&gt;echo 1 &amp;gt; /sys/bus/workqueue/devices/writeback/cpumask&lt;/div&gt;&lt;div&gt;killall crond squeezelite busybox-httpd&lt;/div&gt;&lt;div&gt;sleep 10&lt;/div&gt;&lt;div&gt;/usr/local/bin/taskset -c -p 1 $(pidof RAATServer)&lt;/div&gt;&lt;div&gt;/usr/local/bin/renice -19 -p $(pidof RAATServer)&lt;/div&gt;&lt;div&gt;echo noop &amp;gt; /sys/block/mmcblk0/queue/scheduler&lt;/div&gt;&lt;div&gt;echo 0 &amp;gt; /proc/sys/vm/swappiness&lt;/div&gt;&lt;div&gt;echo 1000000 &amp;gt; /proc/sys/kernel/sched_latency_ns&lt;/div&gt;&lt;div&gt;echo 100000 &amp;gt; /proc/sys/kernel/sched_min_granularity_ns&lt;/div&gt;&lt;div&gt;echo 25000 &amp;gt; /proc/sys/kernel/sched_wakeup_granularity_ns&lt;/div&gt;&lt;div&gt;echo 1 &amp;gt; /proc/sys/kernel/hung_task_check_count&lt;/div&gt;&lt;div&gt;echo 20 &amp;gt; /proc/sys/vm/stat_interval&lt;/div&gt;&lt;div&gt;echo -1 &amp;gt; /proc/sys/kernel/sched_rt_runtime_us&lt;/div&gt;&lt;div&gt;echo 5 &amp;gt; /proc/sys/vm/dirty_background_ratio&lt;/div&gt;&lt;div&gt;echo -n performance &amp;gt; /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor&lt;/div&gt;&lt;div&gt;echo -n performance &amp;gt; /sys/devices/system/cpu/cpu1/cpufreq/scaling_governor&lt;/div&gt;&lt;div&gt;echo -n performance &amp;gt; /sys/devices/system/cpu/cpu2/cpufreq/scaling_governor&lt;/div&gt;&lt;div&gt;echo -n performance &amp;gt; /sys/devices/system/cpu/cpu3/cpufreq/scaling_governor&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;rmmod i2c_bcm2835&lt;/div&gt;&lt;div&gt;rmmod spi_bcm2835&lt;/div&gt;&lt;div&gt;rmmod bcm2835_gpiomem&lt;/div&gt;&lt;div&gt;rmmod snd_soc_bcm2835_i2s&lt;/div&gt;&lt;div&gt;rmmod snd_soc_core&lt;/div&gt;&lt;div&gt;rmmod snd_pcm_dmaengine&lt;/div&gt;&lt;div&gt;rmmod snd_compress&lt;/div&gt;&lt;div&gt;rmmod uio_pdrv_genirq&lt;/div&gt;&lt;div&gt;rmmod uio&lt;/div&gt;&lt;div&gt;rmmod fixed&lt;/div&gt;&lt;div&gt;rmmod spidev&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
           <mxGeometry x="1770" y="1" width="850" height="1850" as="geometry" />
@@ -598,7 +605,7 @@
           <mxGeometry x="2650" y="10" width="850" height="1850" as="geometry" />
         </mxCell>
         <mxCell id="OBH05SYVjdOEQUbnL4dN-22" value="&lt;font color=&quot;#97d077&quot;&gt;&lt;b&gt;ANALOG&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;size=19;position=0.48;base=10;position2=0.15;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="897" y="95" width="61" height="40" as="geometry" />
+          <mxGeometry x="897" y="104" width="61" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OBH05SYVjdOEQUbnL4dN-25" value="" style="endArrow=none;html=1;strokeWidth=4;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#97D077;dashed=1;dashPattern=1 1;" parent="1" source="jf7ATLeE-LSNP4t4z8-3-5" target="iOKNTZCO_xFBOmE4Wzjg-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -813,10 +820,10 @@
           <mxGeometry x="377" y="1213" width="289.5" height="125" as="geometry" />
         </mxCell>
         <mxCell id="iOKNTZCO_xFBOmE4Wzjg-64" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="850" y="85" width="20" height="20" as="geometry" />
+          <mxGeometry x="850" y="94" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOKNTZCO_xFBOmE4Wzjg-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="850.5" y="112" width="20" height="20" as="geometry" />
+          <mxGeometry x="850.5" y="121" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VHM7Qlexj8Ra0WAUJ4W9-10" value="EtherRegen" style="group;fontSize=11;verticalAlign=bottom;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="520" y="499.5" width="112" height="31" as="geometry" />
@@ -1039,6 +1046,15 @@
         </mxCell>
         <mxCell id="73kRBJL7OHnVRC0ZUZlv-10" value="&lt;font style=&quot;font-size: 8px&quot; face=&quot;Tahoma&quot;&gt;USB3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;align=center;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="596" y="459" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="76j5sk3wCB9ZU_lOgHT8-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="285" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="76j5sk3wCB9ZU_lOgHT8-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="330" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="76j5sk3wCB9ZU_lOgHT8-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="375" y="70" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e_pCMJFblcvT9HseUp_T-1" value="Untitled Layer" parent="0" />
       </root>
