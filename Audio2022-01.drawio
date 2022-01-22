@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-22T23:44:04.572Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="Atxk0YtNMLVAySYEl-Dl" version="16.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-22T23:44:16.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="8cNSGQVc_HUrOWkODhzS" version="16.4.5" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
     <mxGraphModel dx="476" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -214,7 +214,7 @@
             <mxPoint x="1318" y="456" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M235wbPJO0eQFkBtWyqc-83" value="&lt;b style=&quot;font-size: 8px&quot;&gt;UpTone LPS1.2&lt;/b&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Out: &lt;b&gt;5&lt;/b&gt; / 7 /9V &amp;nbsp;- 1,1A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;opacity=50;fillColor=none;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="M235wbPJO0eQFkBtWyqc-83" value="&lt;b style=&quot;font-size: 8px&quot;&gt;UpTone LPS1.2&lt;/b&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Out: 5 / &lt;b&gt;7&lt;/b&gt; /9V &amp;nbsp;- 1,1A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;opacity=50;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1245" y="456" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-100" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeColor=#FF00FF;strokeWidth=2;" parent="1" vertex="1">
