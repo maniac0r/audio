@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T20:37:51.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="MbpmYQg-orJH5O-MGu1a" version="16.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-24T20:41:25.673Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="2ByGsCIvjKfjtVbG8B4h" version="16.4.5" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
     <mxGraphModel dx="1482" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="190" y="240" width="290" height="149.25" as="geometry" />
         </mxCell>
         <mxCell id="OBH05SYVjdOEQUbnL4dN-46" value="&lt;font style=&quot;font-size: 29px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 127 , 255)&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DIGITAL ZONE&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;opacity=25;align=left;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="190" y="399.5" width="730" height="240.5" as="geometry" />
+          <mxGeometry x="160" y="399.5" width="760" height="240.5" as="geometry" />
         </mxCell>
         <mxCell id="OBH05SYVjdOEQUbnL4dN-44" value="&lt;font style=&quot;font-size: 18px&quot; color=&quot;#b5739d&quot;&gt;TURNTABLE&lt;br&gt;ZONE&lt;br&gt;SINGLE-ENDED&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B85450;strokeWidth=2;gradientColor=none;opacity=75;fillColor=#E6D0DE;" parent="1" vertex="1">
           <mxGeometry x="930" width="170" height="740" as="geometry" />
@@ -45,7 +45,7 @@
         <mxCell id="M235wbPJO0eQFkBtWyqc-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="407" y="290" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M235wbPJO0eQFkBtWyqc-1" value="&lt;span&gt;Switch 5V / 1A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="M235wbPJO0eQFkBtWyqc-1" value="&lt;span&gt;Switch 5V / 1A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="170" y="507.5" width="84" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -214,7 +214,7 @@
             <mxPoint x="732.66" y="464.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M235wbPJO0eQFkBtWyqc-83" value="&lt;b style=&quot;font-size: 8px&quot;&gt;UpTone LPS1.2&lt;/b&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Out: 5 / &lt;b&gt;7&lt;/b&gt; /9V &amp;nbsp;- 1,1A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;opacity=50;fillColor=none;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="M235wbPJO0eQFkBtWyqc-83" value="&lt;b style=&quot;font-size: 8px&quot;&gt;UpTone LPS1.2&lt;/b&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Out: 5 / &lt;b&gt;7&lt;/b&gt; /9V &amp;nbsp;- 1,1A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="659.66" y="464.25" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="M235wbPJO0eQFkBtWyqc-100" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeColor=#FF00FF;strokeWidth=2;" parent="1" vertex="1">
@@ -963,7 +963,7 @@
             <mxPoint x="155" y="173" as="targetPoint" />
             <Array as="points">
               <mxPoint x="510" y="380" />
-              <mxPoint x="110" y="410" />
+              <mxPoint x="107" y="406" />
               <mxPoint x="100" y="180" />
             </Array>
           </mxGeometry>
