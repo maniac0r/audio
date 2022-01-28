@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T20:32:09.914Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="GNDKF0oheyU7NEFBg6rG" version="16.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-28T20:34:38.467Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="BjClufQclPQIBJBdNWik" version="16.4.6" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
-    <mxGraphModel dx="840" dy="1410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -946,9 +946,9 @@
             <mxPoint x="114.5" y="441.25" as="sourcePoint" />
             <mxPoint x="155" y="173" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="386" />
+              <mxPoint x="462" y="390" />
               <mxPoint x="120" y="230" />
-              <mxPoint x="120" y="60" />
+              <mxPoint x="110" y="53" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1128,9 +1128,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bh3lZ3G9iIvT9dhPq5md-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Bh3lZ3G9iIvT9dhPq5md-2" value="RJ45 coupler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72" y="433.5" width="79" height="26.5" as="geometry" />
         </mxCell>
@@ -1148,7 +1145,7 @@
           <mxGeometry x="51" y="314" width="120" height="22.25" as="geometry" />
         </mxCell>
         <mxCell id="Bh3lZ3G9iIvT9dhPq5md-6" value="NAS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="120.5" y="250.5" width="42" height="51.5" as="geometry" />
+          <mxGeometry x="120.5" y="250" width="42" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Bh3lZ3G9iIvT9dhPq5md-7" value="GW" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="57" y="255.25" width="44" height="42" as="geometry" />
