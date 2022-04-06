@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T19:18:24.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="gQOTWiFydjLM4o382S3l" version="16.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-06T11:23:54.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="cjYf26D0w9mpF8NkDAOi" version="17.4.0" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
-    <mxGraphModel dx="1008" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1143" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -797,7 +797,7 @@
             <mxPoint x="363" y="528.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VHM7Qlexj8Ra0WAUJ4W9-13" value="Farad Super 3&lt;br&gt;7V / 3A&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;+ 1m level 2DC cable&lt;br&gt;SUPRA 1m cable&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="VHM7Qlexj8Ra0WAUJ4W9-13" value="Farad Super 3&lt;br&gt;7V / 3A&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;+0,8m level 1DC Y cable&lt;br&gt;SUPRA 1m cable&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="453" y="549" width="119" height="53" as="geometry" />
         </mxCell>
         <mxCell id="VHM7Qlexj8Ra0WAUJ4W9-14" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#B85450;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="VHM7Qlexj8Ra0WAUJ4W9-2" edge="1">
@@ -938,7 +938,7 @@
             <mxPoint x="-13" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_X-WQwoRXDPAYax9laIT-1" value="Farad Super 3&lt;br&gt;5V / 3A&lt;br&gt;+ 0,8m level 1DC Y cable" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="_X-WQwoRXDPAYax9laIT-1" value="Farad Super 3&lt;br&gt;5V / 3A&lt;br&gt;+ 1m level 2DC cable" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="577" y="549" width="150" height="53" as="geometry" />
         </mxCell>
         <mxCell id="o-9JROk-u79lZK3xoA-8-1" value="" style="endArrow=none;html=1;fillColor=#dae8fc;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#007FFF;dashed=1;dashPattern=1 1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;" parent="1" source="VHM7Qlexj8Ra0WAUJ4W9-7" target="aX2-kF78zCho-L2iL_NG-11" edge="1">
