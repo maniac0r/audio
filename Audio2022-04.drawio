@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T18:00:59.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="Ce561teUsf4wIFNQiIYa" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-24T18:04:26.002Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="kRiwRAnV90XzrIlqXEQ2" version="17.4.6" type="github" pages="2">
   <diagram id="frB2AARtGY0DQCCk_Cin" name="Page-1">
     <mxGraphModel dx="1186" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="quq0QhRDUXGi4U01CZlM-3" value="Supra Lorad 2,5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="M235wbPJO0eQFkBtWyqc-35" vertex="1" connectable="0">
+        <mxCell id="quq0QhRDUXGi4U01CZlM-3" value="Farad L2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="M235wbPJO0eQFkBtWyqc-35" vertex="1" connectable="0">
           <mxGeometry x="0.6052" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -807,7 +807,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="quq0QhRDUXGi4U01CZlM-5" value="Farad &amp;nbsp;L2 1,5m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VHM7Qlexj8Ra0WAUJ4W9-15" vertex="1" connectable="0">
+        <mxCell id="quq0QhRDUXGi4U01CZlM-5" value="Supra Lorad 2,5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VHM7Qlexj8Ra0WAUJ4W9-15" vertex="1" connectable="0">
           <mxGeometry x="0.4482" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
