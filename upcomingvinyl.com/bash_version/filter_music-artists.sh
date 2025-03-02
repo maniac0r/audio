@@ -1,4 +1,13 @@
 #!/bin/bash
+# Reads xml from STDIN and fuzzy-match to your list of artists to watch
+#   xml can be sourced from https://upcomingvinyl.com/feed
+#
+# FUZZYMATCH variable adjusts fuzzy-sensitivity, between 0 and 1
+# FAVART file is plaintext (can be utf8) list of artists, one per line
+#
+# 2025-03 - v1.0 by maniac
+#
+
 
 FAVART=~/filter_music-artists.txt
 FUZZYMATCH=0.7
