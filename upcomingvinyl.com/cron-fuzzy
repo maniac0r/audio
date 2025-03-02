@@ -1,0 +1,19 @@
+#!/bin/bash
+
+cd ~ 
+curl -s https://upcomingvinyl.com/feed -o /dev/shm/releases.txt && \
+  (
+    ./fuzzy_match /dev/shm/releases.txt filter_music-artists.txt
+  )  | sed 's/ [[:digit:]][[:digit:]]:[[:digit:]][[:digit:]]:[[:digit:]][[:digit:]] +[[:digit:]][[:digit:]][[:digit:]][[:digit:]]//' > ~/t2.html
+
+diff -q  ~/t2.html ~/t.html 2>&1 > /dev/null 2>&1
+
+# if no differences in releases found
+if [ $? -eq 0 ] ; then
+  exit 0
+fi
+
+# we got something new..
+cp ~/t2.html ~/t.html
+cat ~/t.html | mail -a 'Content-Type: text/html; charset=utf-8' -s "New upcoming vinyl releases found!" YOUR@EMAIL_HERE
+
