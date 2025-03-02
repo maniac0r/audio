@@ -1,5 +1,5 @@
 This is tool to watch for new vinyl releases of your favourite Artists.
-It is based on the feed from [upcomingcinyl.com](https://upcomingvinyl.com/feed).
+It is based on the feed from [upcomingvinyl.com](https://upcomingvinyl.com/).
 Provides HTML output which can be sent via email in case there was new match found (yippee!) .
 
 ```
