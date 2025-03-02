@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include <libxml/parser.h>
 #include <libxml/tree.h>
-#include <fuzzy.h> // Use libfuzzy for fuzzy matching
+//#include <fuzzy.h> // Use libfuzzy for fuzzy matching
 #include <fstrcmp.h> // Use fstrcmp for fuzzy matching
 #include <ctype.h>
 

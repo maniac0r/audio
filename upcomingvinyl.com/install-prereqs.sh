@@ -4,6 +4,5 @@ sudo apt install xml-twig-tools fstrcmp
 
 
 # C app
-sudo apt install libfuzzy-dev libfstrcmp-dev
-
+sudo apt install fstrcmp libfstrcmp-dev libxml2-dev:arm64
  
